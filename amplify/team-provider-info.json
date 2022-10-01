@@ -10,6 +10,11 @@
       "StackName": "amplify-secapp-dev-141340",
       "StackId": "arn:aws:cloudformation:us-east-1:388837942384:stack/amplify-secapp-dev-141340/7ea85b70-4182-11ed-938a-0e436d8b416b",
       "AmplifyAppId": "d1zoe7v5zk8fic"
+    },
+    "categories": {
+      "auth": {
+        "secapp33d27f21": {}
+      }
     }
   }
 }
